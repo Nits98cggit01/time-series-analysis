@@ -1,0 +1,126 @@
+Analysis Report for: ecomm_posting_bucketcount.xlsx
+--------------------------------------------------
+🔝 Leading category (highest total count): Snapdeal  
+🔝 Least category (lowest total count): Amazon India 
+
+Category: Amazon India
+  ➤ Max count in bucket 62 (03:15 PM - 03:30 PM) = 14
+  ➤ Min count in bucket 1 (12:00 AM - 12:15 AM) = 0  
+  ➤ Average count = 3.82
+  ➤ Count Ranges:
+     - 0 counts      : 18
+     - 1 to 10 counts    : 75
+     - 11 to 25 counts   : 3
+     - 26 to 50 counts   : 0
+     - More than 50 counts    : 0
+  ➤ Time slots with 0 counts:
+     12:00 AM - 12:15 AM, 12:15 AM - 12:30 AM, 12:30 AM - 12:45 AM, 01:30 AM - 01:45 AM, 02:30 AM - 02:45 AM, 03:00 AM - 03:15 AM, 03:15 AM - 03:30 AM, 03:45 PM - 04:00 PM, 08:15 PM - 08:30 PM, 08:45 PM - 09:00 PM, 09:00 PM - 09:15 PM, 09:45 PM - 10:00 PM, 10:15 PM - 10:30 PM, 10:30 PM - 10:45 PM, 10:45 PM - 11:00 PM, 11:00 PM - 11:15 PM, 11:15 PM - 11:30 PM, 11:45 PM - 12:00 AM
+  ➤ Time slots with >10 counts:
+     None
+
+Category: Flipkart
+  ➤ Max count in bucket 30 (07:15 AM - 07:30 AM) = 25
+  ➤ Min count in bucket 2 (12:15 AM - 12:30 AM) = 0
+  ➤ Average count = 7.15
+  ➤ Count Ranges:
+     - 0 counts      : 13
+     - 1 to 10 counts    : 61
+     - 11 to 25 counts   : 22
+     - 26 to 50 counts   : 0
+     - More than 50 counts    : 0
+  ➤ Time slots with 0 counts:
+     12:15 AM - 12:30 AM, 01:45 AM - 02:00 AM, 02:00 AM - 02:15 AM, 02:30 AM - 02:45 AM, 02:45 AM - 03:00 AM, 04:15 AM - 04:30 AM, 08:45 PM - 09:00 PM, 09:15 PM - 09:30 PM, 10:30 PM - 10:45 PM, 10:45 PM - 11:00 PM, 11:00 PM - 11:15 PM, 11:15 PM - 11:30 PM, 11:30 PM - 11:45 PM
+  ➤ Time slots with >50 counts:
+     None
+
+Category: Myntra
+  ➤ Max count in bucket 27 (06:30 AM - 06:45 AM) = 145
+  ➤ Min count in bucket 1 (12:00 AM - 12:15 AM) = 1
+  ➤ Average count = 26.39
+  ➤ Count Ranges:
+     - 0 counts      : 0
+     - 1 to 10 counts    : 31
+     - 11 to 25 counts   : 17
+     - 26 to 50 counts   : 37
+     - More than 50 counts    : 11
+  ➤ Time slots with 0 counts:
+     None
+  ➤ Time slots with >50 counts:
+     06:30 AM - 06:45 AM, 06:45 AM - 07:00 AM, 07:15 AM - 07:30 AM, 09:30 AM - 09:45 AM, 10:30 AM - 10:45 AM, 11:30 AM - 11:45 AM, 11:45 AM - 12:00 PM, 12:00 PM - 12:15 PM, 03:30 PM - 03:45 PM, 04:30 PM - 04:45 PM, 05:00 PM - 05:15 PM
+
+Category: Snapdeal
+  ➤ Max count in bucket 19 (04:30 AM - 04:45 AM) = 68
+  ➤ Min count in bucket 90 (10:15 PM - 10:30 PM) = 0
+  ➤ Average count = 31.40
+  ➤ Count Ranges:
+     - 0 counts      : 5
+     - 1 to 10 counts    : 20
+     - 11 to 25 counts   : 12
+     - 26 to 50 counts   : 39
+     - More than 50 counts    : 20
+  ➤ Time slots with 0 counts:
+     10:15 PM - 10:30 PM, 10:45 PM - 11:00 PM, 11:15 PM - 11:30 PM, 11:30 PM - 11:45 PM, 11:45 PM - 12:00 AM
+  ➤ Time slots with >50 counts:
+     04:30 AM - 04:45 AM, 05:00 AM - 05:15 AM, 05:30 AM - 05:45 AM, 05:45 AM - 06:00 AM, 06:30 AM - 06:45 AM, 07:30 AM - 07:45 AM, 08:00 AM - 08:15 AM, 08:15 AM - 08:30 AM, 08:30 AM - 08:45 AM, 08:45 AM - 09:00 AM, 09:30 AM - 09:45 AM, 10:30 AM - 10:45 AM, 10:45 AM - 11:00 AM, 11:00 AM - 11:15 AM, 11:15 AM - 11:30 AM, 11:30 AM - 11:45 AM, 12:00 PM - 12:15 PM, 12:30 PM - 12:45 PM, 01:30 PM - 01:45 PM, 05:30 PM - 05:45 PM
+
+Analysis Report for: traffic_posting_bucketcount.xlsx
+--------------------------------------------------
+🔝 Leading category (highest total count): Bengaluru Traffic Police
+🔝 Least category (lowest total count): Kolkata Traffic Police
+
+Category: Bengaluru Traffic Police
+  ➤ Max count in bucket 13 (03:00 AM - 03:15 AM) = 97
+  ➤ Min count in bucket 1 (12:00 AM - 12:15 AM) = 0
+  ➤ Average count = 16.91
+  ➤ Count Ranges:
+     - 0 counts      : 30
+     - 1 to 10 counts    : 16
+     - 11 to 25 counts   : 23
+     - 26 to 50 counts   : 21
+     - More than 50 counts    : 6
+  ➤ Time slots with 0 counts:
+     12:00 AM - 12:15 AM, 12:15 AM - 12:30 AM, 12:45 AM - 01:00 AM, 01:15 AM - 01:30 AM, 01:30 AM - 01:45 AM, 03:45 PM - 04:00 PM, 05:30 PM - 05:45 PM, 05:45 PM - 06:00 PM, 06:00 PM - 06:15 PM, 06:15 PM - 06:30 PM, 06:30 PM - 06:45 PM, 06:45 PM - 07:00 PM, 07:00 PM - 07:15 PM, 07:30 PM - 07:45 PM, 07:45 PM - 08:00 PM, 08:00 PM - 08:15 PM, 08:15 PM - 08:30 PM, 08:30 PM - 08:45 PM, 08:45 PM - 09:00 PM, 09:00 PM - 09:15 PM, 09:15 PM - 09:30 PM, 09:30 PM - 09:45 PM, 09:45 PM - 10:00 PM, 10:15 PM - 10:30 PM, 10:30 PM - 10:45 PM, 10:45 PM - 11:00 PM, 11:00 PM - 11:15 PM, 11:15 PM - 11:30 PM, 11:30 PM - 11:45 PM, 11:45 PM - 12:00 AM
+  ➤ Time slots with >50 counts:
+     02:30 AM - 02:45 AM, 02:45 AM - 03:00 AM, 03:00 AM - 03:15 AM, 03:15 AM - 03:30 AM, 12:30 PM - 12:45 PM, 12:45 PM - 01:00 PM
+
+Category: Hyderabad Traffic Police
+  ➤ Max count in bucket 39 (09:30 AM - 09:45 AM) = 45
+  ➤ Min count in bucket 1 (12:00 AM - 12:15 AM) = 0
+  ➤ Average count = 14.92
+  ➤ Count Ranges:
+     - 0 counts      : 10
+     - 1 to 10 counts    : 36
+     - 11 to 25 counts   : 27
+     - 26 to 50 counts   : 23
+     - More than 50 counts    : 0
+  ➤ Time slots with 0 counts:
+     12:00 AM - 12:15 AM, 12:15 AM - 12:30 AM, 12:30 AM - 12:45 AM, 12:45 AM - 01:00 AM, 01:15 AM - 01:30 AM, 01:45 AM - 02:00 AM, 09:30 PM - 09:45 PM, 09:45 PM - 10:00 PM, 10:45 PM - 11:00 PM, 11:30 PM - 11:45 PM
+  ➤ Time slots with >50 counts:
+     None
+
+Category: Kolkata Traffic Police
+  ➤ Max count in bucket 56 (01:45 PM - 02:00 PM) = 33
+  ➤ Min count in bucket 1 (12:00 AM - 12:15 AM) = 0
+  ➤ Average count = 4.66
+  ➤ Count Ranges:
+     - 0 counts      : 49
+     - 1 to 10 counts    : 30
+     - 11 to 25 counts   : 15
+     - 26 to 50 counts   : 2
+     - More than 50 counts    : 0
+  ➤ Time slots with 0 counts:
+     12:00 AM - 12:15 AM, 12:15 AM - 12:30 AM, 12:30 AM - 12:45 AM, 12:45 AM - 01:00 AM, 01:00 AM - 01:15 AM, 01:15 AM - 01:30 AM, 01:30 AM - 01:45 AM, 01:45 AM - 02:00 AM, 02:00 AM - 02:15 AM, 02:15 AM - 02:30 AM, 02:30 AM - 02:45 AM, 02:45 AM - 03:00 AM, 03:00 AM - 03:15 AM, 04:30 AM - 04:45 AM, 04:45 AM - 05:00 AM, 03:30 PM - 03:45 PM, 03:45 PM - 04:00 PM, 04:00 PM - 04:15 PM, 04:15 PM - 04:30 PM, 04:30 PM - 04:45 PM, 04:45 PM - 05:00 PM, 05:00 PM - 05:15 PM, 05:15 PM - 05:30 PM, 05:30 PM - 05:45 PM, 05:45 PM - 06:00 PM, 06:00 PM - 06:15 PM, 06:15 PM - 06:30 PM, 06:30 PM - 06:45 PM, 06:45 PM - 07:00 PM, 07:00 PM - 07:15 PM, 07:15 PM - 07:30 PM, 07:30 PM - 07:45 PM, 07:45 PM - 08:00 PM, 08:00 PM - 08:15 PM, 08:15 PM - 08:30 PM, 08:30 PM - 08:45 PM, 08:45 PM - 09:00 PM, 09:00 PM - 09:15 PM, 09:15 PM - 09:30 PM, 09:30 PM - 09:45 PM, 09:45 PM - 10:00 PM, 10:00 PM - 10:15 PM, 10:15 PM - 10:30 PM, 10:30 PM - 10:45 PM, 10:45 PM - 11:00 PM, 11:00 PM - 11:15 PM, 11:15 PM - 11:30 PM, 11:30 PM - 11:45 PM, 11:45 PM - 12:00 AM
+  ➤ Time slots with >50 counts:
+     None
+
+Category LikesCount
+Retail and Consumer Merchandise	64201204809298.10
+Clothing	3486614931
+Website	902813191.1
+Politician	32326.2323
+Media/News/Publishing	10960.60847
+Telecommunication	3335.311907
+Product/Service	1971.882199
+Hospital/Clinic	601.1355401
+Government Organization	158.7874918
+Health/Medical/Pharmaceuticals	95.74897119
