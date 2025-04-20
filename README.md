@@ -56,11 +56,11 @@ This project performs the following analytical tasks:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [[Python]][Python-url]
-* [[Pandas]][Pandas-url]
-* [[Matplotlib]][Matplotlib-url]
-* [[Openpyxl]][Openpyxl-url]
-* [[Wordcloud]][Wordcloud-url]
+* [[Python]]
+* [[Pandas]]
+* [[Matplotlib]]
+* [[Openpyxl]]
+* [[Wordcloud]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,11 +159,8 @@ Made with ❤️ by Sreema K R
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sreema-k-r-760361265/
-[Python-url]: https://www.python.org/
-[Pandas]: https://img.shields.io/pypi/pyversions/pandas
-[Pandas-url]: https://pypi.org/project/pandas/
-[Matplotlib]: https://img.shields.io/pypi/pyversions/matplotlib
-[Matplotlib-url]: https://pypi.org/project/matplotlib/
-[Openpyxl]: https://img.shields.io/pypi/pyversions/openpyxl
-[Openpyxl-url]: https://pypi.org/project/openpyxl/
-[Wordcloud-url]: https://pypi.org/project/wordcloud/
+[Python]: https://www.python.org/
+[Pandas]: https://pypi.org/project/pandas/
+[Matplotlib]: https://pypi.org/project/matplotlib/
+[Openpyxl]: https://pypi.org/project/openpyxl/
+[Wordcloud]: https://pypi.org/project/wordcloud/
