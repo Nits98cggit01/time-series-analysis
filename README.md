@@ -25,7 +25,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#folder-structure">Folder structure</a></li>
-        <li><a href="#prerequisites">Pre requisites</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -85,7 +85,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
     ├── tsa_fb_post_engagement.py                   # Core script with all analytics functions for the assignment (Exercise 1,2,3.1,3.2)
   ```
 
-### Pre requisites
+### Prerequisites
 
 * Python 3.10+
 * pip
