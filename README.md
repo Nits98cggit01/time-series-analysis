@@ -56,11 +56,11 @@ This project performs the following analytical tasks:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python]][Python-url]
-* [![Pandas][Pandas]][Pandas-url]
-* [![Matplotlib][Matplotlib]][Matplotlib-url]
-* [![Openpyxl][Openpyxl]][Openpyxl-url]
-* [![Wordcloud]][Wordcloud-url]
+* [[Python]][Python-url]
+* [[Pandas]][Pandas-url]
+* [[Matplotlib]][Matplotlib-url]
+* [[Openpyxl]][Openpyxl-url]
+* [[Wordcloud]][Wordcloud-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,18 +70,20 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 
 ### Folder structure
-.
-├── bucket_count/                               # Stores all Excel outputs required for plotting graphs for Exercise 1 and 2 (bucket counts)
-├── Exercise output/                            # Contains all generated plots
-├── wordclouds_by_organization/                 # Contains word clouds for each page - Result for Exercise 3.2
-├── analysis.py/                                # Script for getting the high level analysis required for documentation purpose (Exploratory and document purpose only)
-├── average_likes_per_category.xlsx/            # Output excel for Exercise 3.1
-├── Comments.xlsx                               # Input dataset (comments)
-├── Facebook engagement analysis report.docx    # Exercise 5 - Writeup
-├── Facebook engagement analysis report.pptx    # Exercise 4 - Presentation on the assignment and insights
-├── Post Summary.xlsx                           # Input dataset (posts)
-├── test.ipynb                                  # Jupyter notebook for a quick feasibility check
-├── tsa_fb_post_engagement.py                   # Core script with all analytics functions for the assignment (Exercise 1,2,3.1,3.2)
+  ```sh
+    .
+    ├── bucket_count/                               # Stores all Excel outputs required for plotting graphs for Exercise 1 and 2 (bucket counts)
+    ├── Exercise output/                            # Contains all generated plots
+    ├── wordclouds_by_organization/                 # Contains word clouds for each page - Result for Exercise 3.2
+    ├── analysis.py/                                # Script for getting the high level analysis required for documentation purpose (Exploratory and document purpose only)
+    ├── average_likes_per_category.xlsx/            # Output excel for Exercise 3.1
+    ├── Comments.xlsx                               # Input dataset (comments)
+    ├── Facebook engagement analysis report.docx    # Exercise 5 - Writeup
+    ├── Facebook engagement analysis report.pptx    # Exercise 4 - Presentation on the assignment and insights
+    ├── Post Summary.xlsx                           # Input dataset (posts)
+    ├── test.ipynb                                  # Jupyter notebook for a quick feasibility check
+    ├── tsa_fb_post_engagement.py                   # Core script with all analytics functions for the assignment (Exercise 1,2,3.1,3.2)
+  ```
 
 ### Pre requisites
 
@@ -146,7 +148,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sreema K R
 🔗 Email: sreemakumar2000@gmail.com
 📁 GitHub: @yourusername
 
